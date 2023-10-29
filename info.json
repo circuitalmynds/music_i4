@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "pYZuQkKLG5I",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act IV - No. 29, Finale： b. Ecco qui la mia Susanna [pYZuQkKLG5I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - No. 29, Finale： b. Ecco qui la mia Susanna [pYZuQkKLG5I].mp4",
+            "size": 13.506853,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - No. 29, Finale： b. Ecco qui la mia Susanna [pYZuQkKLG5I].mp4?raw=true"
+        },
+        {
             "id": "4opMOOt-J6o",
             "name": "Barbary Coast [4opMOOt-J6o].mp4",
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Barbary Coast [4opMOOt-J6o].mp4",
@@ -9,11 +16,32 @@
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Barbary Coast [4opMOOt-J6o].mp4?raw=true"
         },
         {
+            "id": "i-mgZm-E8wo",
+            "name": "Billy Cotton Bandshow Part One from 1964 BBC [i-mgZm-E8wo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Billy Cotton Bandshow Part One from 1964 BBC [i-mgZm-E8wo].mp4",
+            "size": 34.079992,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Billy Cotton Bandshow Part One from 1964 BBC [i-mgZm-E8wo].mp4?raw=true"
+        },
+        {
             "id": "uuooZZ9hEVo",
             "name": "Martha Argerich - Chopin's Polonaise-Fantasie, Op. 61 [uuooZZ9hEVo].mp4",
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Martha Argerich - Chopin's Polonaise-Fantasie, Op. 61 [uuooZZ9hEVo].mp4",
             "size": 8.207165999999999,
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Martha Argerich - Chopin's Polonaise-Fantasie, Op. 61 [uuooZZ9hEVo].mp4?raw=true"
+        },
+        {
+            "id": "8Cp5YFlS9VI",
+            "name": "Wiener Weltausstellungs, Op. 90 (Version for Orchestra) [8Cp5YFlS9VI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Wiener Weltausstellungs, Op. 90 (Version for Orchestra) [8Cp5YFlS9VI].mp4",
+            "size": 7.435046,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Wiener Weltausstellungs, Op. 90 (Version for Orchestra) [8Cp5YFlS9VI].mp4?raw=true"
+        },
+        {
+            "id": "5UjZ5d9Q4xA",
+            "name": "Verdi - Nabucco - Overture [5UjZ5d9Q4xA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Verdi - Nabucco - Overture [5UjZ5d9Q4xA].mp4",
+            "size": 8.462455,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Verdi - Nabucco - Overture [5UjZ5d9Q4xA].mp4?raw=true"
         },
         {
             "id": "4UrF5qNoZZQ",
@@ -35,6 +63,13 @@
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Roy Shirley - Hold Them [rdVwBFZZR-Y].mp4",
             "size": 3.7906549999999997,
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Roy Shirley - Hold Them [rdVwBFZZR-Y].mp4?raw=true"
+        },
+        {
+            "id": "Eltf42H1gLc",
+            "name": "Miguel Aceves Mejía. Colección Mexico #12 (Full Album⧸Álbum Completo) [Eltf42H1gLc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Miguel Aceves Mejía. Colección Mexico #12 (Full Album⧸Álbum Completo) [Eltf42H1gLc].mp4",
+            "size": 32.15424,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Miguel Aceves Mejía. Colección Mexico #12 (Full Album⧸Álbum Completo) [Eltf42H1gLc].mp4?raw=true"
         },
         {
             "id": "poAb0MhEvmk",
@@ -86,6 +121,27 @@
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/They Call Me the Queen of Fools [tuudYlKpyJ4].mp4?raw=true"
         },
         {
+            "id": "THVroPbkka4",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act II - No. 12, Voi che sapete [THVroPbkka4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 12, Voi che sapete [THVroPbkka4].mp4",
+            "size": 7.149436,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 12, Voi che sapete [THVroPbkka4].mp4?raw=true"
+        },
+        {
+            "id": "UlwTsxSGITw",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - No. 3, Se vuol ballare, signor Contino [UlwTsxSGITw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Mozart： Le nozze di Figaro, K. 492, Act I - No. 3, Se vuol ballare, signor Contino [UlwTsxSGITw].mp4",
+            "size": 6.918820999999999,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - No. 3, Se vuol ballare, signor Contino [UlwTsxSGITw].mp4?raw=true"
+        },
+        {
+            "id": "iUGRFNofqKY",
+            "name": "Igor Stravinsky - L'Histoire du Soldat (The Soldier's Tale) for Trio (1918) [Score-Video] [iUGRFNofqKY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Igor Stravinsky - L'Histoire du Soldat (The Soldier's Tale) for Trio (1918) [Score-Video] [iUGRFNofqKY].mp4",
+            "size": 17.535577,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Igor Stravinsky - L'Histoire du Soldat (The Soldier's Tale) for Trio (1918) [Score-Video] [iUGRFNofqKY].mp4?raw=true"
+        },
+        {
             "id": "D_FcJcPN9k4",
             "name": "Johnny Clarke - None Shall Escape The Judgement [D_FcJcPN9k4].mp4",
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Johnny Clarke - None Shall Escape The Judgement [D_FcJcPN9k4].mp4",
@@ -128,6 +184,20 @@
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： a. Esci omai garzon malnato [NzEBik9bNg8].mp4?raw=true"
         },
         {
+            "id": "zdwZIZOibR4",
+            "name": "Mbale (Face To Face With The Truth) [zdwZIZOibR4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Mbale (Face To Face With The Truth) [zdwZIZOibR4].mp4",
+            "size": 5.999925999999999,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mbale (Face To Face With The Truth) [zdwZIZOibR4].mp4?raw=true"
+        },
+        {
+            "id": "ZUg6yzKrRXo",
+            "name": "Altered Images - Don't Talk to Me About Love (Official Video) [ZUg6yzKrRXo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Altered Images - Don't Talk to Me About Love (Official Video) [ZUg6yzKrRXo].mp4",
+            "size": 11.412542,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Altered Images - Don't Talk to Me About Love (Official Video) [ZUg6yzKrRXo].mp4?raw=true"
+        },
+        {
             "id": "HqFAFSzfGuE",
             "name": "Piani [HqFAFSzfGuE].mp4",
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Piani [HqFAFSzfGuE].mp4",
@@ -142,6 +212,34 @@
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： g. Vostre dunque saran queste carte [Qj8pJRnO3uE].mp4?raw=true"
         },
         {
+            "id": "lXb-J5MWO_g",
+            "name": "Paganini： Violin Concerto No. 6 in E Minor, MS. 75 - I. Risoluto (Cadenza by Accardo) [lXb-J5MWO_g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Paganini： Violin Concerto No. 6 in E Minor, MS. 75 - I. Risoluto (Cadenza by Accardo) [lXb-J5MWO_g].mp4",
+            "size": 30.364355999999997,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Paganini： Violin Concerto No. 6 in E Minor, MS. 75 - I. Risoluto (Cadenza by Accardo) [lXb-J5MWO_g].mp4?raw=true"
+        },
+        {
+            "id": "ZVue-QsxuzA",
+            "name": "Claravox Centennial _ “Clair de Lune” Performed by Grégoire Blanc & Orane Donnadieu [ZVue-QsxuzA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Claravox Centennial _ “Clair de Lune” Performed by Grégoire Blanc & Orane Donnadieu [ZVue-QsxuzA].mp4",
+            "size": 12.333409,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Claravox Centennial _ “Clair de Lune” Performed by Grégoire Blanc & Orane Donnadieu [ZVue-QsxuzA].mp4?raw=true"
+        },
+        {
+            "id": "1DU--edJZkM",
+            "name": "Galan Galan [1DU--edJZkM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Galan Galan [1DU--edJZkM].mp4",
+            "size": 5.452954999999999,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Galan Galan [1DU--edJZkM].mp4?raw=true"
+        },
+        {
+            "id": "m726TF817wc",
+            "name": "Béla Kéler - Am schönen Rhein gedenk' ich Dein! (Walzer, Op.83) [m726TF817wc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Béla Kéler - Am schönen Rhein gedenk' ich Dein! (Walzer, Op.83) [m726TF817wc].mp4",
+            "size": 8.353824,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Béla Kéler - Am schönen Rhein gedenk' ich Dein! (Walzer, Op.83) [m726TF817wc].mp4?raw=true"
+        },
+        {
             "id": "pAmFDkSYZrs",
             "name": "For You For Me For Evermore [pAmFDkSYZrs].mp4",
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/For You For Me For Evermore [pAmFDkSYZrs].mp4",
@@ -154,6 +252,13 @@
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Manuel de Falla - El sombrero de tres picos [ZdnRQEWfkkI].mp4",
             "size": 43.888385,
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Manuel de Falla - El sombrero de tres picos [ZdnRQEWfkkI].mp4?raw=true"
+        },
+        {
+            "id": "IGVZOLV9SPo",
+            "name": "Pat Benatar - Love Is A Battlefield (Official Music Video) [IGVZOLV9SPo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Pat Benatar - Love Is A Battlefield (Official Music Video) [IGVZOLV9SPo].mp4",
+            "size": 27.062738,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Pat Benatar - Love Is A Battlefield (Official Music Video) [IGVZOLV9SPo].mp4?raw=true"
         },
         {
             "id": "VGhSGp0cyZ0",
@@ -175,6 +280,13 @@
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Piramo e Tisbe： Recitative： Son pur giunta una volta! (Tisbe) [1nh-6dGZb_o].mp4",
             "size": 3.347076,
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Piramo e Tisbe： Recitative： Son pur giunta una volta! (Tisbe) [1nh-6dGZb_o].mp4?raw=true"
+        },
+        {
+            "id": "enuOArEfqGo",
+            "name": "The Good, the Bad and the Ugly - The Danish National Symphony Orchestra (Live) [enuOArEfqGo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/The Good, the Bad and the Ugly - The Danish National Symphony Orchestra (Live) [enuOArEfqGo].mp4",
+            "size": 23.101539,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/The Good, the Bad and the Ugly - The Danish National Symphony Orchestra (Live) [enuOArEfqGo].mp4?raw=true"
         },
         {
             "id": "OnbVcdj_FbA",
@@ -205,12 +317,47 @@
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Ya No Me Quieres (Remastered) [0AMp2_2b8Zs].mp4?raw=true"
         },
         {
+            "id": "OahX2eIWwjc",
+            "name": "REM Blues (Alternate Take) [OahX2eIWwjc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/REM Blues (Alternate Take) [OahX2eIWwjc].mp4",
+            "size": 15.328182,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/REM Blues (Alternate Take) [OahX2eIWwjc].mp4?raw=true"
+        },
+        {
+            "id": "NIdRI7pat5Q",
+            "name": "QUARTET FOR FLUTE, GUITAR, VIOLA AND CELLO G DUR - D 96 - Schubert [NIdRI7pat5Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/QUARTET FOR FLUTE, GUITAR, VIOLA AND CELLO G DUR - D 96 - Schubert [NIdRI7pat5Q].mp4",
+            "size": 42.031731,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/QUARTET FOR FLUTE, GUITAR, VIOLA AND CELLO G DUR - D 96 - Schubert [NIdRI7pat5Q].mp4?raw=true"
+        },
+        {
             "id": "JLX9jFLAaU4",
             "name": "Endless [JLX9jFLAaU4].mp4",
             "path": "/home/alanmatzumiya/Videos/container/i4/videos/Endless [JLX9jFLAaU4].mp4",
             "size": 12.698364999999999,
             "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Endless [JLX9jFLAaU4].mp4?raw=true"
+        },
+        {
+            "id": "cRakv5LYIO4",
+            "name": "Field - Piano Concerto No. 2 In A-flat Major [cRakv5LYIO4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Field - Piano Concerto No. 2 In A-flat Major [cRakv5LYIO4].mp4",
+            "size": 59.976765,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Field - Piano Concerto No. 2 In A-flat Major [cRakv5LYIO4].mp4?raw=true"
+        },
+        {
+            "id": "9DHNcHIKkKI",
+            "name": "No Dejes que te Olvide [9DHNcHIKkKI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/No Dejes que te Olvide [9DHNcHIKkKI].mp4",
+            "size": 5.83944,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/No Dejes que te Olvide [9DHNcHIKkKI].mp4?raw=true"
+        },
+        {
+            "id": "UoyDGw_Jzy8",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - Recit. Eccovi, o caro amico [UoyDGw_Jzy8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i4/videos/Mozart： Le nozze di Figaro, K. 492, Act III - Recit. Eccovi, o caro amico [UoyDGw_Jzy8].mp4",
+            "size": 2.5688079999999998,
+            "url": "https://github.com/circuitalmynds/music_i4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - Recit. Eccovi, o caro amico [UoyDGw_Jzy8].mp4?raw=true"
         }
     ],
-    "total_size": 570.049757
+    "total_size": 947.1183919999997
 }
